@@ -1,0 +1,21 @@
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+src/test/
+
+# Files from Forge MDK
+changelog.txt
+CREDITS.txt
+LICENSE.txt
+README.txt

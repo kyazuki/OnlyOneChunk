@@ -1,0 +1,5 @@
+{
+  "ViewFrustum#setCountChunksXYZ": "META-INF/coremods/ViewFrustum#setCountChunksXYZ.js",
+  "ViewFrustum#updateChunkPositions": "META-INF/coremods/ViewFrustum#updateChunkPositions.js",
+  "WorldRenderer": "META-INF/coremods/WorldRenderer.js"
+}
